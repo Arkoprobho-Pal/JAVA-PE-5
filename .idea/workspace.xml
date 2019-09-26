@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8015c9cf-0ad5-4b22-bd34-4c7ecb3a7951" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exersize2_withJunit/src/com/stackroute/main/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exersize2_withJunit/src/com/stackroute/main/MemberVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exersize2_withJunit/src/com/stackroute/main/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exersize2_withJunit/src/com/stackroute/main/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exersize2_withJunit/src/com/stackroute/main/Problem5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exersize2_withJunit/src/com/stackroute/main/Problem6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exersize2_withJunit/src/com/stackroute/main/Problem7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exersize2_withJunit/tests/com/stackroute/main/EvenNumTestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exersize2_withJunit/tests/com/stackroute/main/MemberVariableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exersize2_withJunit/tests/com/stackroute/main/Problem1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exersize2_withJunit/tests/com/stackroute/main/Problem2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PE-4/src/com/stackroute/main/AlphabetSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PE-4/src/com/stackroute/main/CheckPresence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PE-4/src/com/stackroute/main/CountChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PE-4/src/com/stackroute/main/MatcherMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PE-4/src/com/stackroute/main/RepalcingLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PE-4/src/com/stackroute/main/TransposeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stackroute/main/Maintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stackroute/main/ModifyMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stackroute/main/MultipleAppearance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stackroute/main/SortUsingSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stackroute/main/StringFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stackroute/main/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stackroute/main/StudentSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stackroute/main/UpdateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_PE-3/src/com/stackroute/main/AddMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_PE-3/src/com/stackroute/main/ChessBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_PE-3/src/com/stackroute/main/FileList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_PE-3/src/com/stackroute/main/FindConsecutive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_PE-3/src/com/stackroute/main/FirstLastDayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_PE-3/src/com/stackroute/main/FrequencyWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_PE-3/src/com/stackroute/main/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_PE-3/src/com/stackroute/main/StudentMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_PE-3/src/com/stackroute/main/ThreeTypesOfException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_PE-3/src/com/stackroute/main/UpperText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_PE-3/src/com/stackroute/main/VowelRemoval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ass2" beforeDir="false" afterPath="$PROJECT_DIR$/../ass2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exc1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exc1/style.css" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1RJqFK2PExe4xA7bTBNKTJDF3mz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SortUsingSet">
+    <configuration name="Maintest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.main.Maintest" />
+      <module name="JAVA-PE-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModifyMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.main.ModifyMap" />
+      <module name="JAVA-PE-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleAppearance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.main.MultipleAppearance" />
+      <module name="JAVA-PE-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortUsingSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.main.SortUsingSet" />
+      <module name="JAVA-PE-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.main.StringFrequency" />
+      <module name="JAVA-PE-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SortUsingSet" />
+        <item itemvalue="Application.ModifyMap" />
+        <item itemvalue="Application.Maintest" />
+        <item itemvalue="Application.MultipleAppearance" />
+        <item itemvalue="Application.StringFrequency" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8015c9cf-0ad5-4b22-bd34-4c7ecb3a7951" name="Default Changelist" comment="" />
+      <created>1569395441945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569395441945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
